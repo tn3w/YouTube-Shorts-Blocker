@@ -5,6 +5,7 @@ function hide() {
         ytd-guide-entry-renderer a[title="Shorts"],
         ytd-mini-guide-entry-renderer a[title="Shorts"],
         ytm-pivot-bar-item-renderer a[href="/shorts"],
+        ytm-pivot-bar-item-renderer:has(.pivot-shorts),
         ytd-reel-shelf-renderer,
         ytd-rich-shelf-renderer:has([href*="/shorts/"]),
         ytm-reel-shelf-renderer,
