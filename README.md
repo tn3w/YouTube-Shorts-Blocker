@@ -4,7 +4,7 @@
 
 A brutally minimal browser extension that hides YouTube Shorts everywhere.
 
-[![Mozilla Add-on Rating](https://img.shields.io/amo/rating/shortsless?style=for-the-badge&logo=firefox&logoSize=auto&label=Get%20for%20Firefox%20%7C%7C%20Rating%3A&color=orange)](https://addons.mozilla.org/firefox/addon/shortslessp/)
+[![Mozilla Add-on Rating](https://img.shields.io/amo/rating/shortsless?style=for-the-badge&logo=firefox&logoSize=auto&label=Get%20for%20Firefox%20%7C%7C%20Rating%3A&color=orange)](https://addons.mozilla.org/firefox/addon/shortsless/)
 
 ## Why This Extension?
 
